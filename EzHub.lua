@@ -250,7 +250,7 @@ do
 	EzHub.TextLabel.Size = UDim2.new(0, 58, 0, 31)
 	EzHub.TextLabel.ZIndex = 4
 	EzHub.TextLabel.Font = Enum.Font.SourceSans
-	EzHub.TextLabel.Text = "Ez Hub"
+	EzHub.TextLabel.Text = "Reflex Hub"
 	EzHub.TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel.TextSize = 20.000
 
@@ -528,7 +528,7 @@ do
 	EzHub.TextLabel_2.Position = UDim2.new(0.409254879, 0, 0.181494668, 0)
 	EzHub.TextLabel_2.Size = UDim2.new(0, 41, 0, 54)
 	EzHub.TextLabel_2.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_2.Text = "Ez"
+	EzHub.TextLabel_2.Text = "Reflex"
 	EzHub.TextLabel_2.TextColor3 = Color3.fromRGB(190, 190, 190)
 	EzHub.TextLabel_2.TextSize = 35.000
 	EzHub.TextLabel_2.TextWrapped = true
@@ -622,7 +622,7 @@ do
 	EzHub.TextLabel_5.Position = UDim2.new(0.285714298, 0, 0.640569389, 0)
 	EzHub.TextLabel_5.Size = UDim2.new(0, 200, 0, 43)
 	EzHub.TextLabel_5.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_5.Text = " V3rm: CDXX"
+	EzHub.TextLabel_5.Text = " V3rm: reflexx"
 	EzHub.TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_5.TextSize = 18.000
 	EzHub.TextLabel_5.TextWrapped = true
@@ -633,7 +633,7 @@ do
 	EzHub.TextLabel_6.Position = UDim2.new(0.268656731, 0, 0.555160224, 0)
 	EzHub.TextLabel_6.Size = UDim2.new(0, 213, 0, 43)
 	EzHub.TextLabel_6.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_6.Text = "Discord: CEO of Africa#0591"
+	EzHub.TextLabel_6.Text = "Discord: reflexx#0001"
 	EzHub.TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_6.TextSize = 18.000
 	EzHub.TextLabel_6.TextWrapped = true
@@ -663,7 +663,7 @@ do
 	EzHub.TextLabel_7.Position = UDim2.new(0.281449914, 0, 0.822064042, 0)
 	EzHub.TextLabel_7.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.TextLabel_7.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_7.Text = "Special thanks to 0_King_0#6336 for testing"
+	EzHub.TextLabel_7.Text = "Tested by reflexx#0001 :skull:"
 	EzHub.TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_7.TextSize = 14.000
 
